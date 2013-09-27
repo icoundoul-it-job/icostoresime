@@ -1,0 +1,3 @@
+databaseUrl=http://localhost:3306/icostoresimedb2
+driver=com.mysql.jdbc.Driver
+username=root
